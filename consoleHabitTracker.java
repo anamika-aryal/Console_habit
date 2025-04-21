@@ -1,3 +1,4 @@
+package Console_habit;
 import java.util.*;
 
 class Habit{
